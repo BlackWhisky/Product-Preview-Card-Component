@@ -1,0 +1,34 @@
+
+
+:root{
+    /* color variables */
+    --green-primary-500: #3D8168;
+    --green-primary-700: #1A4032;
+
+    --neutral-black: #1C232B;
+    --neutral-gray: #6C7289;
+    --neutral-cream: #F2EAE2;
+    --neutral-white: #FFFFFF;
+
+    /* font variables */
+    --font-family-fraunces: 'Fraunces', serif;
+    --font-family-montserrat: 'Montserrat', sans-serif;
+    --font-weight-medium: 500;
+    --font-weight-bold: 700;
+    --font-height-1: 110%;
+    --font-height-2: 120%;
+    --font-height-3: 160%;
+    --font-spacing: 0.3125em;
+    /* spacing variables */
+    --spacing-50: 0.25rem;
+    --spacing-100: 0.5rem;
+    --spacing-200: 1rem;
+    --spacing-300: 2rem;
+    --spacing-400: 3rem;
+    --spacing-500: 3.5rem;
+    
+}
+
+#cart-container{
+    background-color: var(--neutral-cream);
+}
