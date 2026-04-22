@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [My solution of From FrontendMentor](https://www.frontendmentor.io/solutions/product-card-page-with-flexbox-jXBv-29qFw)
 - Live Site URL: [live site here](https://blackwhisky.github.io/Product-Preview-Card-Component/)
 
 
